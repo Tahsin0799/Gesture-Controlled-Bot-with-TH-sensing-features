@@ -1,0 +1,2 @@
+# Gesture-Controlled-Bot-with-TH-sensing-features
+This project includes the control of a bot (designed for deploying in industries ) using hand gestures. This bot is capable of sending Temperature and Humidity data back to the user via NodeMCU to an android application.Hence,user can monitor the temperature and humidity of the highly sensitive regions in the industry dedicated for production only.
